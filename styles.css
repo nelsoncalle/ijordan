@@ -47,7 +47,7 @@ h1 {
         border: 2px solid #000; /* Borde negro sólido de 2 píxeles */
         padding: 5px; /* Espacio entre la imagen y el borde */
         width: 300px; /* Ancho específico de la imagen */
-        height: 350px; 
+        height: 300px; 
         margin: 10px auto; /* Centrar las imágenes */
         
     }
