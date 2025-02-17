@@ -24,11 +24,36 @@ h1 {
 }
 
 
+.property img {
+    border: 2px solid #000; /* Borde negro sólido de 2 píxeles */
+    padding: 5px; /* Espacio entre la imagen y el borde */
+    width: 400px; /* Ancho específico de la imagen */
+    height: 350px; 
+    display: inline-block;
+    margin: 10px auto; /* Centrar las imágenes */
+    margin-inline: 105px;  
+}
+
+
 .sangria {
     text-indent: 2em; /* Ajusta el valor según la cantidad de sangría que desees */
     margin-bottom: 1em; /* Espacio entre párrafos */
 }
 
+
+@media (max-width: 600px) {
+
+    .property img {
+        border: 2px solid #000; /* Borde negro sólido de 2 píxeles */
+        padding: 5px; /* Espacio entre la imagen y el borde */
+        width: 300px; /* Ancho específico de la imagen */
+        height: 350px; 
+        margin: 10px auto; /* Centrar las imágenes */
+        
+    }
+
+
+}
 
 
 
