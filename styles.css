@@ -34,6 +34,10 @@ h1 {
     margin-inline: 105px;  
 }
 
+.property li{
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
 
 .sangria {
     text-indent: 2em; /* Ajusta el valor según la cantidad de sangría que desees */
