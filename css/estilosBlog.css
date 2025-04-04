@@ -40,3 +40,23 @@
 .whatsapp-button {
     animation: heartbeat 1.5s infinite;
 }
+
+
+.nuevo {
+    position: absolute;
+    top: 4px;
+    background: red;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 3px 5px;
+    border-radius: 6px;
+    animation: parpadeo 1s infinite alternate;
+    transform: translateX(-50%);
+  }
+  
+  @keyframes parpadeo {
+    0% { opacity: 1; }
+    100% { opacity: 0.5; }
+  }
+  
