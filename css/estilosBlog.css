@@ -60,3 +60,21 @@
     100% { opacity: 0.5; }
   }
   
+
+  @media (max-width: 768px) {
+    .nav-item {
+      display: flex;
+      flex-direction: column; /* Coloca "Nuevo" arriba */
+      align-items: center;
+    }
+  
+ 
+    .nuevo {
+        position: static;    
+        margin: 5px; 
+      }
+
+
+
+  }
+  
