@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+}
+
+
+body {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-style: italic;
+    text-shadow: 1px 1px 0 black, 2px 2px 0 #f11c1c;
+}
+
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d32626;
+}
+
+@media (max-width: 768px) {
+   
+}
