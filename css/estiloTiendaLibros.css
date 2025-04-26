@@ -33,6 +33,9 @@ h1{
     width: 310px;
 }
 
+iframe{
+    flex: 1;
+}
 
   .libroEstanteria {
     width: 100px;
