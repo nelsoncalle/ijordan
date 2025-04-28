@@ -70,11 +70,14 @@ h1{
   
 
   h3{
-    font-size: 20px;
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: 600;
   }
 
 .descripcion{
-    font-size: 18px;
+    font-size: 12px;
+    margin-bottom: 0px;
 }
 
 .precio {
