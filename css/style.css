@@ -7,6 +7,7 @@
 
 
 
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9871,22 +9872,3 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-
-.bg-top.navbar-light {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-    background: white;
-}
-
-.ftco-navbar-light {
-    position: fixed;
-    top: 80px; /* Ajusta según la altura del header */
-    width: 100%;
-    z-index: 1000;
-}
-
-body {
-    padding-top: 160px; /* Ajusta según la altura combinada del header y menú */
-}
